@@ -6,7 +6,7 @@
 def primeNum(max):
 	""" 
 	A function to generate the first n prime numbers.
-	input: number. The nth number. Type: integer
+	input: number. The  nth number. Type: integer
 	ouput: prime_list. List of n prime numbers. Type: list
 	"""
 
